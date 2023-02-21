@@ -1,0 +1,9 @@
+drink_id,drink_name,price,method
+1,Whiskey Sour,145,shake
+2,Old Fashioned,152,stir
+3,Tom Collins,148,build
+4,Daiquiri,145,shake
+5,Mojito,152,build
+6,Cosmopolitan,152,shake
+7,Margarita,148,shake
+8,Black Russian,136,stir
